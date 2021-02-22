@@ -418,7 +418,19 @@ address a {
   padding: 50px 100px;
 }
 
-#photo-collage img {
+/* #photo-collage img {
+  width: 50vw;
+  max-width: 400px;
+  height: auto;
+  border-radius: 50%;
+  padding: 20px;
+} */
+
+img[alt='photo-4'],
+img[alt='photo-5'],
+img[alt='photo-1'],
+img[alt='photo-2'],
+img[alt='photo-3'] {
   width: 50vw;
   max-width: 400px;
   height: auto;
@@ -520,7 +532,7 @@ address a {
   img[alt='photo-4'],
   img[alt='photo-5'] {
     width: 50vw;
-    height: 70vw;
+    height: 60vw;
     border-radius: 50%;
   }
   img[alt='photo-1'],
@@ -607,7 +619,7 @@ address a {
   img[alt='photo-4'],
   img[alt='photo-5'] {
     width: 50vw;
-    height: 70vw;
+    height: 60vw;
     border-radius: 50%;
   }
   img[alt='photo-1'],
