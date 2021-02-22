@@ -521,7 +521,10 @@ address a {
     width: 50vw;
     height: auto;
     border-radius: 50%;
-    min-height: 0;
+  }
+  .top-row {
+    width: 100%;
+    height: auto;
   }
   img[alt='logo'] {
     height: 50px;
