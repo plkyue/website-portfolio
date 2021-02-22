@@ -593,7 +593,7 @@ address a {
     padding: 0;
   }
   #photo-collage img {
-    width: 50%vw;
+    width: 50vw;
     height: auto;
     border-radius: 50%;
   }
