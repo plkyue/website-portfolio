@@ -466,6 +466,11 @@ address a {
     text-align: center;
   }
 
+  .buttons {
+    display: block;
+    text-align: center;
+  }
+
   .navigation-list {
     display: flex;
     flex-direction: column;
