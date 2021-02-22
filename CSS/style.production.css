@@ -466,11 +466,6 @@ address a {
     text-align: center;
   }
 
-  .buttons {
-    display: block;
-    text-align: center;
-  }
-
   .navigation-list {
     display: flex;
     flex-direction: column;
@@ -494,6 +489,10 @@ address a {
   #menuToggle {
     top: 20px;
     left: 20px;
+  }
+  .buttons {
+    display: block;
+    text-align: center;
   }
 }
 
