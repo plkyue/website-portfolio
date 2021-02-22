@@ -519,7 +519,7 @@ address a {
   }
   #photo-collage img {
     width: 50vw;
-    height: auto;
+    height: 50vw;
     border-radius: 50%;
   }
   img[alt='logo'] {
@@ -594,7 +594,7 @@ address a {
   }
   #photo-collage img {
     width: 50vw;
-    height: auto;
+    height: 50vw;
     border-radius: 50%;
   }
 }
