@@ -238,7 +238,7 @@ a:active {
 .center-bottom-button {
   width: 85%;
   position: absolute;
-  bottom: 5px;
+  bottom: 10px;
 }
 
 p {
@@ -474,8 +474,9 @@ img[alt='photo-3'] {
 }
 
 .project-list {
-  margin-left: 135px;
-  margin-right: 175px;
+  padding: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 @media all and (max-width: 500px) {
