@@ -519,13 +519,10 @@ address a {
   }
   #photo-collage img {
     width: 50vw;
-    height: auto;
+    height: 50vw;
     border-radius: 50%;
   }
-  .top-row {
-    width: 100%;
-    height: auto;
-  }
+
   img[alt='logo'] {
     height: 50px;
     width: auto;
