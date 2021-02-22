@@ -521,6 +521,7 @@ address a {
     width: 50vw;
     height: auto;
     border-radius: 50%;
+    min-height: 0;
   }
   img[alt='logo'] {
     height: 50px;
