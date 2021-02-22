@@ -522,6 +522,15 @@ address a {
     height: 50vw;
     border-radius: 50%;
   }
+  alt[photo-5] {
+    width: 50vw;
+    height: 55vw;
+  }
+  alt[photo-3] {
+    width: 65vw;
+    height: 50vw;
+  }
+}
 
   img[alt='logo'] {
     height: 50px;
