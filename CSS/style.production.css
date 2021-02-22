@@ -517,9 +517,21 @@ address a {
   #photo-collage {
     padding: 0;
   }
-  #photo-collage img {
+  img[alt='photo-4'],
+  img[alt='photo-5'] {
+    width: 50vw;
+    height: 70vw;
+    border-radius: 50%;
+  }
+  img[alt='photo-1'],
+  img[alt='photo-2'] {
     width: 50vw;
     height: 50vw;
+    border-radius: 50%;
+  }
+  img[alt='photo-3'] {
+    width: 50vw;
+    height: 40vw;
     border-radius: 50%;
   }
   img[alt='logo'] {
