@@ -522,6 +522,11 @@ address a {
     margin: 0 auto;
   }
 
+  .introduction {
+    display: block;
+    text-align: center;
+  }
+
   .buttons {
     display: block;
     text-align: center;
